@@ -440,3 +440,16 @@
 | 434 | [What is debouncing?](#what-is-debouncing)                                                                                                                        |
 | 435 | [What is throttling?](#what-is-throttling)                                                                                                                        |
 | 436 | [What is optional chaining?](#what-is-optional-chaining)                                                                                                          |
+
+
+
+1. ### What are the possible ways to create objects in JavaScript
+
+   There are many ways to create objects in javascript as below
+
+   1. **Object constructor:**
+
+      The simplest way to create an empty object is using the Object constructor. Currently this approach is not recommended.
+
+      ```javascript
+      var object = new Object();
