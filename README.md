@@ -453,3 +453,10 @@
 
       ```javascript
       var object = new Object();
+
+   2. **Object's create method:**
+
+      The create method of Object creates a new object by passing the prototype object as a parameter
+
+      ```javascript
+      var object = Object.create(null);
